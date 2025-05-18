@@ -1,7 +1,7 @@
 # Vim Configuration
 
-" Simple Vim configuration added to avoid having to search for basic settings
-" every time I use Vim on a server. Provides a modern, convenient editing experience.
+**Simple Vim configuration added to avoid having to search for basic settings**
+**every time I use Vim on a server. Provides a modern, convenient editing experience.**
 ---
 
 ## Features
