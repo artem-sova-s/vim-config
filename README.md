@@ -1,7 +1,7 @@
 # Vim Configuration
 
-This is a custom Vim configuration file aimed at improving usability, enabling modern features, and enhancing the coding experience for daily development tasks. It includes syntax highlighting, smart indentation, search enhancements, and user interface improvements.
-
+" Simple Vim configuration added to avoid having to search for basic settings
+" every time I use Vim on a server. Provides a modern, convenient editing experience.
 ---
 
 ## Features
